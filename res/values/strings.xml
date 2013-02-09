@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Social Study</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_social_study_main">SocialStudyMainActivity</string>
+    <string name="app_id">221263511337052</string>
+    <string name="get_started">Login to get started</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_class">ClassActivity</string>
+    <string name="college">College:</string>
+    <string name="classes_and_sessions">Classes and Sessions:</string>
+    <string name="done">Done</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="info">info</string>
+    <string name="join_class">Join Class</string>
+    <string name="title_activity_class_info">ClassInfoActivity</string>
+    <string name="instructor">Instructor:</string>
+    <string name="students_in_class">Students in Class:</string>
+    <string name="edit">edit</string>
+
+</resources>
